@@ -1,1 +1,45 @@
 
+<html> 
+<head>
+	<title> Jamin's CV</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1> Curriculum vitae(CV) </h1>
+<p> Name: Jim, Jamin Rahman Jim </p>
+<p> Age	: 22 </p>
+<p> DOB	: 16/04/2000 </p>
+<p> sex : Male </p>
+<p> Address: Narshingdi, Dhaka </p>
+<img src="20-42732-1.jpg" alt="Jamin's Picture">
+<p> </p>
+
+<p>Experience:</p>
+<ul class="a">
+  <li>C++</li>
+  <li>Java</li>
+  <li>HTML</li>
+  <li>C#</li>
+  <li>Python</li>
+</ul>
+
+<table style="width:100%">
+  <tr>
+    <th>Institution</th>
+    <th>Passing year</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td>AIUB</td>
+    <td>2020-Running</td>
+    <td>CGPA 3.98</td>
+  </tr>
+  <tr>
+    <td>AKMCC</td>
+    <td>2019</td>
+    <td>GPA 5.00</td>
+  </tr>
+</table>
+
+</body>
+</html>
