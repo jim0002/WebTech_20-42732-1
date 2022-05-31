@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+	font-family: verdana;
+  font-size: 14px;
+  text-align: center;
+}
+img{
+	width:150px;
+	height:150px;
+	border-radius: 50%;
+	/*vertical-align:center;*/
+	margin:0px 280px;
+}
+table,th,td{
+  border:1px solid black;
+  text-align: center;
+  background-color: lightblue;
+}
+ul.a {
+  list-style-type: circle;
+}
