@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Jim Jamin Rahman",
+        "Email": "jaminjim.aiub@gmail.com",
+        "User_Name": "Jamin Jim",
+        "Password": "AIUB@1234s",
+        "Gender": "male",
+        "Date_of_Birth": "2000-04-16",
+        "Image": "PP\/SmartCity.jpg",
+        "Id": 4
+    },
+    {
+        "Name": "39_Jim Jamin Rahman",
+        "Email": "jaminjim.aiub@gmail.com",
+        "User_Name": "jimn",
+        "Password": "jj",
+        "Gender": "other",
+        "Date_of_Birth": "2022-06-21",
+        "Image": "images\/images.png",
+        "Id": 6
+    },
+    {
+        "Name": "Jim Jamin Rahman",
+        "E-mail": "jaminjim.aiub@gmail.com",
+        "User_Name": "JaminJim",
+        "Password": "JJJJ23$7j",
+        "Gender": "male",
+        "Date_of_Birth": "2022-06-02",
+        "Image": "Uploads\/Cartoon.png",
+        "Id": 7
+    }
+]
